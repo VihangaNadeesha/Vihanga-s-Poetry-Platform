@@ -10,8 +10,8 @@ export const localPoems: Poem[] = [
     excerpt: "විරහව අතරත් ආදරය නිහඬව ඉතිරි වන කවියක්.",
     mood: "විරහ",
     cover_image: null,
-    created_at: "2026-01-01T00:00:00.000Z",
-    updated_at: "2026-01-01T00:00:00.000Z"
+    created_at: "2026-05-28T00:00:00.000Z",
+    updated_at: "2026-05-28T00:00:00.000Z"
   },
   {
     id: "00000000-0000-4000-8000-000000000002",
@@ -21,8 +21,8 @@ export const localPoems: Poem[] = [
     excerpt: "ඉතින් කලකින් හමුවූ හිතවතිය, මා හට ඔබේ ගැන සිත ඇතිය.",
     mood: "ආදර",
     cover_image: null,
-    created_at: "2026-01-02T00:00:00.000Z",
-    updated_at: "2026-01-02T00:00:00.000Z"
+    created_at: "2026-05-29T00:00:00.000Z",
+    updated_at: "2026-06-01T00:00:00.000Z"
   }
 ];
 
