@@ -22,3 +22,53 @@
  ✓ Compiled /search in 364ms (1650 modules)
  GET /search 200 in 517ms
  GET / 200 in 80ms
+ GET / 200 in 2222ms
+ GET / 200 in 300ms
+ GET / 200 in 254ms
+ ○ Compiling /poems ...
+ ✓ Compiled /poems in 5.7s (1430 modules)
+ ✓ Compiled in 1420ms (611 modules)
+ GET /poems 200 in 7480ms
+ GET /poems 200 in 720ms
+ GET / 200 in 1835ms
+ GET /poems 200 in 392ms
+ GET /poems 200 in 300ms
+ GET / 200 in 312ms
+ GET /poems 200 in 196ms
+ ○ Compiling /poems/[slug] ...
+ ✓ Compiled /poems/[slug] in 4s (1468 modules)
+ GET /poems/rosa-mathaka 200 in 7276ms
+ GET /poems/akuru-athara-oba 200 in 4870ms
+ GET /search 200 in 151ms
+ GET /poems 200 in 174ms
+ GET /poems?mood=%E0%B6%B1%E0%B7%92%E0%B7%84%E0%B6%AC 200 in 117ms
+ GET /poems?mood=%E0%B6%B6%E0%B6%BD%E0%B7%8F%E0%B6%B4%E0%B7%9C%E0%B6%BB%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%80 200 in 112ms
+ GET /poems 200 in 141ms
+ GET /poems/rosa-mathaka 200 in 156ms
+ GET / 200 in 378ms
+ GET / 200 in 871ms
+ GET /poems 200 in 154ms
+ GET /poems/rosa-mathaka 200 in 172ms
+ GET /poems/akuru-athara-oba 200 in 184ms
+ ○ Compiling /api/reactions ...
+ ✓ Compiled /api/reactions in 2.4s (1487 modules)
+ POST /api/reactions 500 in 3281ms
+ GET /search 200 in 411ms
+ GET /poems 200 in 227ms
+ GET /search 200 in 117ms
+ GET /search?q=%E0%B6%86%E0%B6%AF%E0%B6%BB%E0%B6%AB%E0%B7%93%E0%B6%BA 200 in 617ms
+ ○ Compiling /about ...
+ ✓ Compiled /about in 618ms (872 modules)
+ GET /about 200 in 1037ms
+ ○ Compiling /api/auth/[...nextauth] ...
+ ✓ Compiled /api/auth/[...nextauth] in 1193ms (1105 modules)
+ GET /api/auth/error?error=Configuration 500 in 2028ms
+ GET /api/auth/error?error=Configuration 500 in 63ms
+ GET /about 200 in 766ms
+ GET / 200 in 196ms
+ GET /poems 200 in 201ms
+ GET /search 200 in 171ms
+ GET /about 200 in 115ms
+ GET /api/auth/error?error=Configuration 500 in 126ms
+ GET /api/auth/error?error=Configuration 500 in 64ms
+ GET /search 200 in 1485ms

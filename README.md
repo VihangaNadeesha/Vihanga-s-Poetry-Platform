@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # රෝස අකුරු | Rosa Akuru
 
 Production-ready Sinhala-first poetry platform built with Next.js 15, React, TypeScript, Tailwind CSS, Framer Motion, NextAuth, and Supabase.
@@ -88,3 +89,7 @@ docker compose up --build
 ```
 
 The app runs on `http://localhost:3000`.
+=======
+# Vihanga-s-Poetry-Platform
+A full-stack poetry publishing platform engineered with Next.js, React, and modern frontend libraries, featuring component-based architecture, responsive UI design, optimized routing, server-side rendering (SSR), and scalable content presentation for an enhanced user experience.
+>>>>>>> c3bb3abacc428f8e828f18f19d0b68f9c4556ca2

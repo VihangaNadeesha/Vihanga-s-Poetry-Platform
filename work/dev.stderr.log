@@ -8,3 +8,21 @@ https://next-auth.js.org/errors#no_secret
 https://next-auth.js.org/warnings#nextauth_url
 [next-auth][warn][NO_SECRET] 
 https://next-auth.js.org/warnings#no_secret
+Error: Supabase environment variables are required for admin actions.
+    at createAdminClient (src\lib\supabase.ts:18:11)
+    at POST (src\app\api\reactions\route.ts:14:37)
+  16 | export function createAdminClient() {
+  17 |   if (!isSupabaseConfigured || !supabaseServiceRoleKey) {
+> 18 |     throw new Error("Supabase environment variables are required for admin actions.");
+     |           ^
+  19 |   }
+  20 |
+  21 |   return createClient(url, supabaseServiceRoleKey, {
+[next-auth][error][NO_SECRET] 
+https://next-auth.js.org/errors#no_secret
+[next-auth][warn][NEXTAUTH_URL] 
+https://next-auth.js.org/warnings#nextauth_url
+[next-auth][warn][NO_SECRET] 
+https://next-auth.js.org/warnings#no_secret
+[next-auth][error][NO_SECRET] 
+https://next-auth.js.org/errors#no_secret
