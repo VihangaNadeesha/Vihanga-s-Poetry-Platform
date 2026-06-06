@@ -1,0 +1,24 @@
+
+> rosa-akuru@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.19
+   - Local:        http://localhost:3000
+   - Network:      http://10.108.23.77:3000
+
+ ✓ Starting...
+ ✓ Ready in 7.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 1285ms (1402 modules)
+ GET / 200 in 2099ms
+ GET / 200 in 249ms
+ GET / 200 in 456ms
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 769ms (217 modules)
+ ○ Compiling /api/auth/[...nextauth] ...
+ ✓ Compiled /about in 1639ms (1643 modules)
+ GET /about 200 in 792ms
+ GET /api/auth/error?error=Configuration 500 in 2568ms
+ ✓ Compiled /search in 364ms (1650 modules)
+ GET /search 200 in 517ms
+ GET / 200 in 80ms

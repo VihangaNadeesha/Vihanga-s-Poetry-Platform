@@ -1,0 +1,10 @@
+ ⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\v.hemachandra\Documents\Codex\2026-06-05\build-a-production-ready-full-stack\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+\\?\C:\Users\v.hemachandra\Documents\Codex\2026-06-05\build-a-production-ready-full-stack\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node
+ ⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\v.hemachandra\Documents\Codex\2026-06-05\build-a-production-ready-full-stack\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+\\?\C:\Users\v.hemachandra\Documents\Codex\2026-06-05\build-a-production-ready-full-stack\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node
+[next-auth][error][NO_SECRET] 
+https://next-auth.js.org/errors#no_secret
+[next-auth][warn][NEXTAUTH_URL] 
+https://next-auth.js.org/warnings#nextauth_url
+[next-auth][warn][NO_SECRET] 
+https://next-auth.js.org/warnings#no_secret

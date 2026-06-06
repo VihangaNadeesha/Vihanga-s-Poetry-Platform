@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #0d0d0d;
+  color: #ffffff;
+}
+
+::selection {
+  background: #ff5c8a;
+  color: #ffffff;
+}
+
+.prose-poem {
+  white-space: pre-line;
+  line-height: 2.15;
+}
