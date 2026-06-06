@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "කවි",
-  description: "රෝස අකුරු කවි එකතුව."
+  description: "ප්‍රේමය අනන්තයි කවි එකතුව."
 };
 
 export const dynamic = "force-dynamic";

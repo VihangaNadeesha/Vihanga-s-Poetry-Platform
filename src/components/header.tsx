@@ -14,7 +14,7 @@ export function Header() {
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
         <Link href="/" className="flex items-center gap-2 text-lg font-bold text-paper">
           <Heart className="h-5 w-5 text-rose" aria-hidden />
-          රෝස අකුරු
+          ප්‍රේමය අනන්තයි
         </Link>
         <div className="flex items-center gap-3 text-sm text-white/72 sm:gap-6">
           {links.map((link) => (

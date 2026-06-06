@@ -18,8 +18,8 @@ export default async function HomePage() {
             <div className="mx-auto mb-6 flex h-14 w-14 items-center justify-center rounded-full border border-rose/40 bg-card text-rose shadow-glow">
               <Heart className="h-6 w-6" />
             </div>
-            <h1 className="text-4xl font-bold leading-tight text-paper sm:text-6xl">අකුරු අතර සැඟවුණු ආදර කතා</h1>
-            <p className="mx-auto mt-6 max-w-2xl text-lg leading-9 text-white/70">රෝස අකුරු යනු ආදරය, මතකය, විරහව සහ නිහඬ හැඟීම් සිංහලෙන් කියවීමට නිර්මාණය කළ කවි අවකාශයකි.</p>
+            <h1 className="text-4xl font-bold leading-tight text-paper sm:text-6xl">තුන්කල් කාව්‍යමය ප්‍රේම ජවනිකාව</h1>
+            <p className="mx-auto mt-6 max-w-2xl text-lg leading-9 text-white/70">"ප්‍රේමය අනන්තයි" යනු ආදරය, මතකය, විරහව සහ නිහඬ හැඟීම් සිංහලෙන් කියවීමට නිර්මාණය කළ කවි අවකාශයකි.</p>
             <div className="mt-9 flex flex-col justify-center gap-3 sm:flex-row">
               <Link href="/poems" className="inline-flex items-center justify-center gap-2 rounded-md bg-rose px-6 py-3 font-semibold text-white transition hover:bg-rose/85">
                 කවි කියවන්න

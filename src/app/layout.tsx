@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Noto_Serif_Sinhala } from "next/font/google";
+// @ts-ignore: CSS import handled by Next.js
 import "./globals.css";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
