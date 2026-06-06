@@ -13,13 +13,13 @@ const sinhala = Noto_Serif_Sinhala({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000"),
   title: {
-    default: "රෝස අකුරු | Rosa Akuru",
-    template: "%s | රෝස අකුරු"
+    default: "ප්‍රේමය අනන්තයි | Premaya Ananthayi",
+    template: "%s | ප්‍රේමය අනන්තයි"
   },
   description: "Sinhala-first romantic poetry platform for emotional writing, reactions, comments, and elegant reading.",
   openGraph: {
-    title: "රෝස අකුරු",
-    description: "අකුරු අතර සැඟවුණු ආදර කතා",
+    title: "ප්‍රේමය අනන්තයි | Premaya Ananthayi",
+    description: "තුන්කල් කාව්‍යමය ප්‍රේම ජවනිකාව",
     type: "website"
   }
 };
