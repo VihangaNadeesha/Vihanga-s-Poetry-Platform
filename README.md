@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Rosa Akuru
 
 Production-ready Sinhala-first poetry platform built with Next.js 15, React, TypeScript, Tailwind CSS, Framer Motion, NextAuth, and Supabase.
